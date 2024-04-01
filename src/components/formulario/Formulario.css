@@ -1,0 +1,21 @@
+.contenedor {
+    width: 60%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 10px;
+  }
+  
+  
+  .etiquetas {
+    text-transform: uppercase;
+    color: greenyellow;
+    padding: 5px;
+    font-size: 1.2em; 
+  }
+  
+  
+  .botones {
+    margin-top: 10px; 
+  }
+  
